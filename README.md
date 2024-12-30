@@ -1,6 +1,7 @@
 # URL Filter Tool
 
 A Python application with a PyQt5 GUI that filters URLs based on static resource extensions and groups similar URLs.
+![图片](https://github.com/user-attachments/assets/01e8ceab-14e0-41ea-98be-1d95421cf13a)
 
 ## Features
 
